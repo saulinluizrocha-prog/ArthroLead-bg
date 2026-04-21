@@ -824,10 +824,10 @@ select {
 
 .header__prod {
     position: relative;
-    max-width: 172px;
+    max-width: 250px;
     align-self: flex-end;
-    top: 135px;
-    right: 83px;
+    top: 60px;
+    right: 50px;
     z-index: 3
 }
 
